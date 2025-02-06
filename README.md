@@ -1,5 +1,5 @@
 Bot made for Discord with Javascript.
-Data scrapped from https://www-peakrivals-com
+Data scrapped from peakrivals-com
 Static info in 1 Javascript file
 
 Just change the token with your own and it should be fine. 
